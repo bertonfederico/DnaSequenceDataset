@@ -1,0 +1,12 @@
+debug/algorithm.o
+debug/algorithm_iterate.o
+debug/algorithm_massive.o
+debug/main.o
+debug/mainwindow.o
+debug/run_algorithm.o
+debug/qrc_info.o
+debug/qrc_input.o
+debug/qrc_output.o
+debug/qrc_tick.o
+debug/moc_mainwindow.o
+debug/moc_run_algorithm.o
