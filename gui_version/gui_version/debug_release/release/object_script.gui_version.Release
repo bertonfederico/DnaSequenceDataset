@@ -1,0 +1,13 @@
+release/algorithm.o
+release/algorithm_iterate.o
+release/algorithm_massive.o
+release/main.o
+release/mainwindow.o
+release/run_algorithm.o
+release/qrc_background.o
+release/qrc_info.o
+release/qrc_input.o
+release/qrc_output.o
+release/qrc_tick.o
+release/moc_mainwindow.o
+release/moc_run_algorithm.o

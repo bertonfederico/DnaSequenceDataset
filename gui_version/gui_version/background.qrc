@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/tick">
+        <file>Resources/background.jpg</file>
+    </qresource>
+</RCC>
+

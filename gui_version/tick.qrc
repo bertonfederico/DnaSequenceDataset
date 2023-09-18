@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/tick">
-        <file>Resources/tick.jpg</file>
-    </qresource>
-</RCC>
