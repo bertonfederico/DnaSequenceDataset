@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 11.0.2, 2023-09-18T22:02:15. -->
+<!-- Written by QtCreator 11.0.2, 2023-09-18T22:15:02. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -243,7 +243,7 @@
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/feder/Documents/UniPgDevelop/DnaSequenceDataset/gui_version/gui_version/debug_release</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/feder/Documents/UniPgDevelop/DnaSequenceDataset/gui_version/debug_release</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
