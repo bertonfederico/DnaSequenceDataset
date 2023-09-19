@@ -38,6 +38,15 @@
 ### Pseudocode
 ![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/09fac551-c03e-49c7-8142-9eba70e36b1f)
 
+### CLI & GUI C++ files
+* File main.h/.cpp (GUI): class to start the application GUI;
+* Files main.cpp (CLI) and mainwindow.h/.cpp (GUI): classes to request input data and process it;
+* File run_algorithm.h/.cpp: class to run the different types of algorithm and output the necessary log files and .csv files;
+* Files algorithm_iterate.h/.cpp and algorithm_massive.h/.cpp: classes that run the actual sampling algorithm;
+* File common.h: header files containing useful structures and methods common to multiple classes;
+* File mainwindow.ui (GUI): file defining the graphical structure of the application interface.
+
+
 ## Computational complexity
 ![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/67927a1b-4400-4d9b-913a-7f38056a03e4)
 
