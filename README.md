@@ -20,7 +20,7 @@
 	</tr>
 	<tr align="center">
   		<td>Dataset D</td>
-		<td width=40%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/fb37ce7f-a3dd-401b-a6b7-9f1f5a8f781a" </img> </td>
+		<td width=40%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d8c75a18-455c-42f3-ba45-ddadad224681)"</img> </td>
 		<td>m = 1007050</td>
 	</tr>
  	<tr align="center">
@@ -36,7 +36,7 @@
 </table>
 
 ### Pseudocode
-![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/09fac551-c03e-49c7-8142-9eba70e36b1f)
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/f49dac47-ce19-4074-9d9e-1e02b1bee3ac)
 
 ### CLI & GUI C++ files
 * File main.h/.cpp (GUI): class to start the application GUI;
@@ -48,22 +48,18 @@
 
 
 ## Computational complexity
-![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/67927a1b-4400-4d9b-913a-7f38056a03e4)
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d3125d78-440e-4b05-a763-44d4a749875c)
 
 ## Choice of n and k values for correctness
 ### Purpose: analysis of the entire input dataset
-![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/70fa56e5-67a9-4b41-9a66-6157351aa0d8)
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d4b22b6a-8021-487d-a131-206f8f72de3b)
 
 ### Purpose: containment of multiple writing of the same record
-![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/ecbdd8ac-4342-4eda-93ea-3f84a8f08d61)
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/6ac6caf4-cc7f-4c5a-b11d-f8016ab316da)
 
 ### Purpose: homogeneity of writing by iteration
-![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/7b8ecb97-c40e-471f-88ff-120527ce76a2)
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/0da6d91c-d079-4756-9318-fab0a49f1436)
 
 
 ## Conclusion
-![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/639193d6-717c-4949-889d-a14a2c192119)
-
-
-
-
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d206d15b-d2f8-44d3-97bd-38cca0583516)
