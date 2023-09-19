@@ -1,6 +1,5 @@
 # DnaSequenceDataset
- 
-![tog](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/375cb744-3c7b-44f7-bc64-e25b4fe6a70b)
+ ![background1](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/2a1f2b1a-6d8f-4127-b68c-6d037e1e5102)
 
 ## Introduction
 ### Purpose of the program 
