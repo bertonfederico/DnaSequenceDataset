@@ -41,5 +41,20 @@
 ## Computational complexity
 ![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/67927a1b-4400-4d9b-913a-7f38056a03e4)
 
+## Choice of n and k values for correctness
+### Purpose: analysis of the entire input dataset
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/70fa56e5-67a9-4b41-9a66-6157351aa0d8)
+
+### Purpose: containment of multiple writing of the same record
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/ecbdd8ac-4342-4eda-93ea-3f84a8f08d61)
+
+### Purpose: homogeneity of writing by iteration
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/7b8ecb97-c40e-471f-88ff-120527ce76a2)
+
+
+## Conclusion
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/639193d6-717c-4949-889d-a14a2c192119)
+
+
 
 
