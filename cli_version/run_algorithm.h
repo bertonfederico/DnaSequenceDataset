@@ -2,8 +2,10 @@
 #define RUN_ALGORITHM_H
 
 #include "common.h"
-#include "algorithm_iterate.h"
-#include "algorithm_massive.h"
+#include <sys/stat.h>
+#include  <stdio.h>
+#include  <stdlib.h>
+#include <unistd.h>
 
 using namespace std;
 

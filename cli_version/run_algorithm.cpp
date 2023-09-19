@@ -1,4 +1,7 @@
 #include "run_algorithm.h"
+#include "algorithm_iterate.h"
+#include "algorithm_massive.h"
+#include <unistd.h>
 
 RunAlgorithm::RunAlgorithm(inputValues input, vector<int> n_values, vector<int> k_values)
 {
@@ -92,7 +95,7 @@ void RunAlgorithm::printOutputLogFile(outputValues out, string dirTag, string fu
 
 void RunAlgorithm::printResultToConsolle(outputValues out, string version) {
     string title = "\n------------  Outcome log - " + version + " version   --------------\n";
-    printf(title.c_str());
+    printf("%s", title.c_str());
     printf("Input dataset path: %s\n", input.input_file_path.c_str());
     printf("Parameter k: %d\n", input.parameter_k);
     printf("Parameter n: %d\n", input.output_dataset_size);

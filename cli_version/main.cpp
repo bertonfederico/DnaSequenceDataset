@@ -1,6 +1,10 @@
 #include "common.h"
 #include "run_algorithm.h"
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
 using namespace std;
 
 void printAlgorithmDescription();
@@ -105,7 +109,7 @@ void parameterN() {
         cin >> tmp;
         string error = splitStringByComma(tmp, n_values);
         if (!error.empty()) {
-            printf(error.c_str());
+            printf("%s", error.c_str());
             cin.clear();
             continue;
         }
@@ -122,7 +126,7 @@ void parameterK() {
         cin >> tmp;
         string error = splitStringByComma(tmp, k_values);
         if (!error.empty()) {
-            printf(error.c_str());
+            printf("%s", error.c_str());
             cin.clear();
             continue;
         }

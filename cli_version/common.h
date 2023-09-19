@@ -69,15 +69,15 @@ inline string getOutputFileName(string toAppend, inputValues input) {
     time_t t = time(0);
     struct tm * now = localtime(& t );
     fileName =  "outData_" + toAppend + "_" +
-                "n" + to_string(input.output_dataset_size) + "_" +
-                "k" + to_string(input.parameter_k) + "_" +
-                to_string(now->tm_year + 1900) +
-                to_string(now->tm_mon + 1) +
-                to_string(now->tm_mday) +
-                to_string(now->tm_hour) +
-                to_string(now->tm_min) +
-                to_string(now->tm_sec) +
-                ".fastq";
+               "n" + to_string(input.output_dataset_size) + "_" +
+               "k" + to_string(input.parameter_k) + "_" +
+               to_string(now->tm_year + 1900) +
+               to_string(now->tm_mon + 1) +
+               to_string(now->tm_mday) +
+               to_string(now->tm_hour) +
+               to_string(now->tm_min) +
+               to_string(now->tm_sec) +
+               ".fastq";
     return fileName;
 }
 
@@ -86,15 +86,15 @@ inline string getOutputFileLogName(string tag, inputValues input) {
     time_t t = time(0);
     struct tm * now = localtime(& t );
     fileName =  "logExecutionTimes" + tag + "_" +
-                "n" + to_string(input.output_dataset_size) + "_" +
-                "k" + to_string(input.parameter_k) + "_" +
-                to_string(now->tm_year + 1900) +
-                to_string(now->tm_mon + 1) +
-                to_string(now->tm_mday) +
-                to_string(now->tm_hour) +
-                to_string(now->tm_min) +
-                to_string(now->tm_sec) +
-                ".log";
+               "n" + to_string(input.output_dataset_size) + "_" +
+               "k" + to_string(input.parameter_k) + "_" +
+               to_string(now->tm_year + 1900) +
+               to_string(now->tm_mon + 1) +
+               to_string(now->tm_mday) +
+               to_string(now->tm_hour) +
+               to_string(now->tm_min) +
+               to_string(now->tm_sec) +
+               ".log";
     return fileName;
 }
 

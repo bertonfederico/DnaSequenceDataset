@@ -85,4 +85,3 @@ int Algorithm::findOccurrences(vector<int> set, int element_to_find) {
     }
     return count;
 }
-
