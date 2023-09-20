@@ -2,12 +2,13 @@
  ![background1](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/2a1f2b1a-6d8f-4127-b68c-6d037e1e5102)
 
 ## Introduction
-### Purpose of the program 
-* ***Scope***: detection of frequent k-mers given a dataset of DNA sequences (SPRISS study);
-* ***Problem***: high resources used (execution time and memory) by the search algorithm;
-* ***Resolution***: uniform random sampling of the initial dataset
-  * decrease in the cardinality of the dataset to be analyzed and thus in the resources used by the search algorithm;
-* ***Objective***: development and analysis of the sampling algorithm;
+### Purpose of the program
+> [!IMPORTANT]
+> * ***Scope***: detection of frequent k-mers given a dataset of DNA sequences (SPRISS study);
+> * ***Problem***: high resources used (execution time and memory) by the search algorithm;
+> * ***Resolution***: uniform random sampling of the initial dataset
+>   * decrease in the cardinality of the dataset to be analyzed and thus in the resources used by the search algorithm;
+> * ***Objective***: development and analysis of the sampling algorithm;
 
 ## Developement
 ### Algorithm input parameters
