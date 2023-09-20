@@ -59,7 +59,12 @@
 
 
 ## Computational complexity
+### Theoretical complexity
 ![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d3125d78-440e-4b05-a763-44d4a749875c)
+
+### Effective complexity
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/ebf9cd85-09cb-40ed-b491-95bbd6f34fb1)
+
 
 ## Choice of *n* and *k* values for correctness
 ### Purpose: analysis of the entire input dataset
