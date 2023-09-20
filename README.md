@@ -19,7 +19,7 @@
 	</tr>
 	<tr align="center">
   		<td>Dataset D</td>
-		<td width=40%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d8c75a18-455c-42f3-ba45-ddadad224681)"</img> </td>
+		<td width=40%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d79e5e11-00c8-4ee5-af78-e8f906e4945a"</img> </td>
 		<td>m = 1007050</td>
 	</tr>
  	<tr align="center">
