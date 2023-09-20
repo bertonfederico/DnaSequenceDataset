@@ -58,6 +58,14 @@
 * ***File mainwindow.ui (GUI)***: file defining the graphical structure of the application interface.
 
 ### Output data
+Once input parameters are established, outputs are created in two different forms:
+* based on the read and write mode of input and output files:
+	* ***massive reading-writing version***: it writes into memory (in a supporting data structure) all the records in the source dataset, samples them by writing selected records into memory (in a second data structure), and only then writes them massively into the output file;
+ 	* ***iterated reading-writing version***: it reads the record from the initial dataset only at the time when the algorithm needs it (during the sampling procedure), and at the same time writes the record to the output file, thus not keeping all input and output records in memory;
+* based on the number of rows in the output for each record:
+	* ***full version***: all four rows for each input record will appear in the output;
+	* ***patial Version***: in output will report the only significant row (the third one) for each incoming record;
+
 The output of the program execution consists of the following files:
 <table align="center">
 	<tr align="center">
