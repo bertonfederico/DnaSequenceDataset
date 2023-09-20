@@ -69,7 +69,7 @@
 ![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/fd5fb370-1b3c-4433-8d25-5dc1148db0d4)
 
 ### Purpose: homogeneity of writing by iteration
-![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/0da6d91c-d079-4756-9318-fab0a49f1436)
+![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/697537c1-4d24-4f66-95cf-8e39623f731a)
 
 
 ## Conclusion
