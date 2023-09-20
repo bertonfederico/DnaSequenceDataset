@@ -57,6 +57,36 @@
 * ***File common.h***: header files containing useful structures and methods common to multiple classes;
 * ***File mainwindow.ui (GUI)***: file defining the graphical structure of the application interface.
 
+### Output data
+The output of the program execution consists of the following files:
+<table align="center">
+	<tr align="center">
+  		<th>Output name</th>
+		<th>Contents</th>
+		<th>Sample image</th>
+	</tr>
+	<tr align="center">
+  		<td width=15%><em><strong>executionTimesCPU.csv & executionTimesWall.csv</strong></em></td>
+		<td width=30%>They contain all the results in terms of execution time in tabular form</td>
+		<td width=55%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/613e6fd9-da2d-43f5-9ff3-009e2511b0b3"> </td>
+	</tr>
+ 	<tr align="center">
+  		<td width=15%><em><strong>parameterChanges.csv</strong></em></td>
+		<td width=30%>It contains the evolution of the parameters <em><strong>n, m, c</strong></em> and the duplicate records at each iteration for all possible values of <em><strong>k</strong></em></td>
+		<td width=55%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/cedc3d7d-6840-4b00-9f51-baff05e5b65d"> </td>
+	</tr>
+	<tr align="center">
+  		<td width=15%><em><strong>inputRecordSelected.csv</strong></em></td>
+		<td width=30%>It contains the input records read in tabular form for each combination of input parameters and for each version of algorithm used</td>
+		<td width=55%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/2623a67f-6d72-46c5-8ece-a6e4a5f814b4"> </td>
+	</tr>
+</table>
+
+Once the output directory is chosen, the processed files will be found as follows:
+<p align="center">
+	<img width=60% src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/80b74ef8-1499-4336-a7e2-b973dff3ab2f">
+</p>
+
 
 ## Computational complexity
 ### Theoretical complexity
