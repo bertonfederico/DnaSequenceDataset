@@ -20,7 +20,7 @@
 	</tr>
 	<tr align="center">
   		<td>Dataset D</td>
-		<td width=40%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d79e5e11-00c8-4ee5-af78-e8f906e4945a"</img> </td>
+		<td width=40%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/d79e5e11-00c8-4ee5-af78-e8f906e4945a"> </td>
 		<td>m = 1007050</td>
 	</tr>
  	<tr align="center">
@@ -39,6 +39,17 @@
 ![image](https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/f49dac47-ce19-4074-9d9e-1e02b1bee3ac)
 
 ### CLI & GUI C++ files
+<table align="center">
+	<tr align="center">
+  		<th>GUI version</th>
+		<th>CLI version</th>
+	</tr>
+ 	<tr align="center">
+  		<td width=45%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/b5aeae09-5bd0-4861-accd-8644af8316c6"> </td>
+		<td width=55%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/a6896b21-40a0-49e5-84c5-2ac130435a5c"> </td>
+	</tr>
+</table>
+
 * ***File main.h/.cpp (GUI)***: class to start the application GUI;
 * ***Files main.cpp (CLI) and mainwindow.h/.cpp (GUI)***: classes to request input data and process it;
 * ***File run_algorithm.h/.cpp***: class to run the different types of algorithm and output the necessary log files and .csv files;
