@@ -66,7 +66,7 @@ The output of the program execution consists of the following files:
 		<th>Sample image</th>
 	</tr>
 	<tr align="center">
-  		<td width=15%><em><strong>executionTimesCPU.csv & executionTimesWall.csv</strong></em></td>
+  		<td width=15%><em><strong>executionTimesWall.csv (total time) & executionTimesCPU.csv (CPU time only)</strong></em></td>
 		<td width=30%>They contain all the results in terms of execution time in tabular form</td>
 		<td width=55%><img src="https://github.com/bertonfederico/DnaSequenceDataset/assets/105301467/613e6fd9-da2d-43f5-9ff3-009e2511b0b3"> </td>
 	</tr>
