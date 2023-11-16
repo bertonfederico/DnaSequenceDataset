@@ -29,7 +29,7 @@
 		<td>k ∈ {100705, 251763, 503525, 755288}</td>
 	</tr>
  	<tr align="center">
-  		<td>Parametro k</td>
+  		<td>Parameter k</td>
 		<td>k > 0</td>
 		<td>k ∈ {1, 10, 100, 1000, 10000, 100000, 1000000}</td>
 	</tr>
